@@ -11,13 +11,13 @@
 <br><br>
 
 <a href="https://linkedin.com/in/malaika-tauqeer-a364b62b9">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 <a href="mailto:malaikatauqeer00917@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0E1117"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
 </a>
 <a href="https://github.com/malaika-09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0E1117"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=malaika-09&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -42,23 +42,23 @@ philosophy: "Build first, document later 🛠️"
 
 **Languages**
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=00D9FF"/>
 
 **Hardware & Protocols**
 
-<img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPIO-1a1a2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UART-1a1a2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PWM-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32--S3-0D1117?style=for-the-badge&logo=espressif&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&logoColor=00D9FF"/>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/EasyEDA-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wokwi-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proteus-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Simulink-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EasyEDA-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Wokwi-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Proteus-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&logoColor=00D9FF"/>
 
 </div>
 
