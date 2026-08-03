@@ -2,52 +2,67 @@
 
 <img src="https://avatars.githubusercontent.com/malaika-09" width="150" style="border-radius:50%"/>
 
-# Malaika Tauqeer
-### Electrical Engineering Student — Embedded Systems | ESP32 | PCB Design
+# Hi, I'm Malaika Tauqeer 👋
 
-📍 Learning to build → Ready for internship roles
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Electrical+Engineering+Student;Embedded+Systems+Enthusiast;ESP32+%7C+PCB+Design+%7C+IoT" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/malaika-tauqeer-a364b62b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:malaikatauqeer00917@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
+<br>
 
-### 👤 Who I Am
+## 🎓 About Me
 
-```js
-const malaika = {
-  role: "Electrical Engineering Student (Embedded Systems)",
-  university: "University of Management and Technology, Lahore",
-  currentlyDoing: "Embedded Systems Internship",
-  stack: {
-    languages: ["C", "Embedded C", "Python", "MATLAB"],
-    hardware: ["ESP32-S3", "GPIO", "UART", "PWM", "Sensors (DHT22, JSN-SR04T)"],
-    tools: ["EasyEDA", "Wokwi", "Proteus", "Simulink"],
-    interests: ["PCB Design", "IoT", "Control Systems"]
-  },
-  currentlyLearning: "Advanced GPIO Libraries & Driver Development",
-  funFact: "Builds first, documents later 🛠️"
-};
-```
+- 🏫 Electrical Engineering Student at **University of Management and Technology, Lahore**
+- 🔭 Currently doing an **Embedded Systems Internship**
+- 🌱 Learning **Advanced GPIO Libraries & Driver Development**
+- ⚡ Interests: **PCB Design, IoT, Control Systems**
+- 🛠️ Philosophy: *Build first, document later*
 
----
+<br>
 
-### 🛠️ Languages & Tools
+## 💻 Tech Stack
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-informational?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Hardware & Protocols**
+
+![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![GPIO](https://img.shields.io/badge/GPIO-black?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-black?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-black?style=for-the-badge)
+
+**Tools**
+
+![EasyEDA](https://img.shields.io/badge/EasyEDA-orange?style=for-the-badge)
+![Wokwi](https://img.shields.io/badge/Wokwi-blueviolet?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-teal?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-red?style=for-the-badge)
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malaika-09&theme=tokyonight&hide_border=true"/>
+</p>
 
-### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=malaika-09&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-![Malaika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malaika-09&theme=tokyonight)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=malaika-09&label=Profile%20views&color=0e75b6&style=flat"/>
+</div>
