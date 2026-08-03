@@ -9,6 +9,8 @@
 <a href="https://linkedin.com/in/malaika-tauqeer-a364b62b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:malaikatauqeer00917@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=malaika-09&label=Profile%20views&color=0e75b6&style=flat" />
+
 </div>
 
 <br>
@@ -28,7 +30,6 @@
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-informational?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
@@ -51,18 +52,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malaika-09&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malaika-09&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=malaika-09&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=malaika-09&label=Profile%20views&color=0e75b6&style=flat"/>
-</div>
