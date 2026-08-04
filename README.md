@@ -67,13 +67,13 @@ philosophy: "Build first, document later 🛠️"
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0E1117&title_color=00D9FF&icon_color=0E75B6&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=malaika-09&theme=tokyonight&hide_border=true&background=0E1117&ring=00D9FF&fire=0E75B6&currStreakLabel=00D9FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0E1117&title_color=00D9FF&icon_color=0E75B6&text_color=c9d1d9&cb=1" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=malaika-09&theme=tokyonight&hide_border=true&background=0E1117&ring=00D9FF&fire=0E75B6&currStreakLabel=00D9FF&cb=1" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1117&title_color=00D9FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=malaika-09&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1117&title_color=00D9FF&text_color=c9d1d9&cb=1" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=malaika-09&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8&cb=1" width="48%"/>
 </p>
 
 <br>
@@ -91,7 +91,7 @@ philosophy: "Build first, document later 🛠️"
 ## 🔥 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malaika-09&theme=tokyo-night&hide_border=true&bg_color=0E1117&color=00D9FF&line=0E75B6&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malaika-09&theme=tokyo-night&hide_border=true&bg_color=0E1117&color=00D9FF&line=0E75B6&point=ffffff&cb=1" width="100%"/>
 </p>
 
 <br>
