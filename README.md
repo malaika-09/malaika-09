@@ -42,23 +42,23 @@ philosophy: "Build first, document later 🛠️"
 
 **Languages**
 
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=00D9FF"/>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00D9FF"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF"/></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=00D9FF"/></a>
 
 **Hardware & Protocols**
 
-<img src="https://img.shields.io/badge/ESP32--S3-0D1117?style=for-the-badge&logo=espressif&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<a href="https://www.espressif.com/en/products/socs/esp32-s3"><img src="https://img.shields.io/badge/ESP32--S3-0D1117?style=for-the-badge&logo=espressif&logoColor=00D9FF"/></a>
+<a href="https://en.wikipedia.org/wiki/General-purpose_input/output"><img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
+<a href="https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter"><img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
+<a href="https://en.wikipedia.org/wiki/Pulse-width_modulation"><img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/EasyEDA-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Wokwi-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Proteus-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+<a href="https://easyeda.com/"><img src="https://img.shields.io/badge/EasyEDA-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
+<a href="https://wokwi.com/"><img src="https://img.shields.io/badge/Wokwi-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
+<a href="https://www.labcenter.com/"><img src="https://img.shields.io/badge/Proteus-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
+<a href="https://www.mathworks.com/products/simulink.html"><img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
 
 </div>
 
