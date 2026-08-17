@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Malaika+Tauqeer;Electrical+Engineering+Student;Embedded+Systems+%7C+ESP32+%7C+IoT;Building+Hardware+%2B+Firmware" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D4FF&height=200&section=header&text=Malaika%20Tauqeer&fontSize=48&fontColor=ffffff&desc=Electrical%20Engineering%20%7C%20Embedded%20Systems&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ESP32+%7C+PCB+Design+%7C+IoT;Firmware+Development;Build+First%2C+Document+Later" alt="Typing SVG" />
 
 </div>
 
@@ -22,6 +26,9 @@
 
 <div align="center">
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ### 👋 About Me
 
 🔭 Electrical Engineering student — Embedded Systems Enthusiast | ESP32 • PCB Design • IoT
@@ -34,6 +41,9 @@
 <br/>
 
 <div align="center">
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### 🛠️ Tools
 
@@ -50,6 +60,9 @@
 
 <div align="center">
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ### 📊 GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -65,6 +78,9 @@
 
 <div align="center">
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ### 🐍 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/malaika-09/malaika-09/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -74,6 +90,9 @@
 <br/>
 
 <div align="center">
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### 🔗 Connect
 
