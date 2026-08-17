@@ -14,11 +14,7 @@
 <tr>
 <td align="center">
 
-<details>
-<summary><b>🖱️ Click to reveal my workspace</b></summary>
-<br/>
 <img src="https://raw.githubusercontent.com/malaika-09/malaika-09/main/setup_photo.png" width="380" style="border-radius:12px;" alt="Malaika's Workspace"/>
-</details>
 
 </td>
 </tr>
