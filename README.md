@@ -1,105 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1117,50:0E75B6,100:00d9ff&height=220&section=header&text=Malaika%20Tauqeer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Embedded%20Systems&descAlignY=58&descSize=18"/>
-
-<img src="https://avatars.githubusercontent.com/malaika-09" width="150" style="border-radius:50%;border:3px solid #0E75B6"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&lines=Electrical+Engineering+Student;Embedded+Systems+Enthusiast;ESP32+%7C+PCB+Design+%7C+IoT;Build+First%2C+Document+Later+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/malaika-tauqeer-a364b62b9">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-<a href="mailto:malaikatauqeer00917@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-</a>
-<a href="https://github.com/malaika-09">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=malaika-09&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Malaika+Tauqeer;Electrical+Engineering+Student;Embedded+Systems+%7C+ESP32+%7C+IoT;Building+Hardware+%2B+Firmware" alt="Typing SVG" />
 
 </div>
 
-## 🎓 About Me
+<br/>
 
-```yaml
-education: "BS Electrical Engineering @ University of Management and Technology, Lahore"
-current:   "Embedded Systems Internship"
-learning:  "Advanced GPIO Libraries & Driver Development"
-interests: ["PCB Design", "IoT", "Control Systems"]
-philosophy: "Build first, document later 🛠️"
-```
+<table align="center">
+<tr>
+<td align="center">
 
-<br>
+<details>
+<summary><b>🖱️ Click to reveal my workspace</b></summary>
+<br/>
+<img src="https://raw.githubusercontent.com/malaika-09/malaika-09/main/assets/setup_photo.png" width="380" style="border-radius:12px;" alt="Malaika's Workspace"/>
+</details>
 
-## 💻 Tech Stack
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Languages**
+### 👋 About Me
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00D9FF"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF"/></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=00D9FF"/></a>
-
-**Hardware & Protocols**
-
-<a href="https://www.espressif.com/en/products/socs/esp32-s3"><img src="https://img.shields.io/badge/ESP32--S3-0D1117?style=for-the-badge&logo=espressif&logoColor=00D9FF"/></a>
-<a href="https://en.wikipedia.org/wiki/General-purpose_input/output"><img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
-<a href="https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter"><img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
-<a href="https://en.wikipedia.org/wiki/Pulse-width_modulation"><img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
-
-**Tools**
-
-<a href="https://easyeda.com/"><img src="https://img.shields.io/badge/EasyEDA-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
-<a href="https://wokwi.com/"><img src="https://img.shields.io/badge/Wokwi-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
-<a href="https://www.labcenter.com/"><img src="https://img.shields.io/badge/Proteus-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
-<a href="https://www.mathworks.com/products/simulink.html"><img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&logoColor=00D9FF"/></a>
+🔭 Electrical Engineering student — Embedded Systems Enthusiast | ESP32 • PCB Design • IoT
+🌱 Currently interning on ESP32-based firmware, hardware design & documentation
+⚡ Believer in **"build first, document later"**
+📫 Reach me: malaikatauqeer00917@gmail.com
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0E1117&title_color=00D9FF&icon_color=0E75B6&text_color=c9d1d9&cb=1" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=malaika-09&theme=tokyonight&hide_border=true&background=0E1117&ring=00D9FF&fire=0E75B6&currStreakLabel=00D9FF&cb=1" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1117&title_color=00D9FF&text_color=c9d1d9&cb=1" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=malaika-09&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8&cb=1" width="48%"/>
-</p>
-
-<br>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/malaika-09/malaika-09/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-> ℹ️ Snake graph auto-updates via GitHub Action — setup steps neeche hain agar abhi nahi lagaya.
-
-<br>
-
-## 🔥 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malaika-09&theme=tokyo-night&hide_border=true&bg_color=0E1117&color=00D9FF&line=0E75B6&point=ffffff&cb=1" width="100%"/>
-</p>
-
-<br>
+<br/>
 
 <div align="center">
 
-### 💭 "Debugging is like being a detective in a crime movie where you are also the murderer."
+### 🛠️ Tools
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0E75B6,100:0E1117&height=120&section=footer"/>
+<img src="https://img.shields.io/badge/EasyEDA-1E88E5?style=for-the-badge&logo=easyeda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wokwi-FF6600?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proteus-00979D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Simulink-FF5B00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=malaika-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-09&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=malaika-09&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/malaika-09/malaika-09/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔗 Connect
+
+<a href="mailto:malaikatauqeer00917@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=malaika-09&color=00D4FF&style=flat)
 
 </div>
