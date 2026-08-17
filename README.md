@@ -17,7 +17,7 @@
 <details>
 <summary><b>🖱️ Click to reveal my workspace</b></summary>
 <br/>
-<img src="https://raw.githubusercontent.com/malaika-09/malaika-09/main/assets/setup_photo.png" width="380" style="border-radius:12px;" alt="Malaika's Workspace"/>
+<img src="https://raw.githubusercontent.com/malaika-09/malaika-09/main/setup_photo.png" width="380" style="border-radius:12px;" alt="Malaika's Workspace"/>
 </details>
 
 </td>
@@ -27,7 +27,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 ### 👋 About Me
 
@@ -43,7 +43,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 ### 🛠️ Tools
 
@@ -61,7 +61,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 ### 📊 GitHub Stats
 
@@ -79,7 +79,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 ### 🐍 Contribution Graph
 
@@ -92,7 +92,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 ### 🔗 Connect
 
